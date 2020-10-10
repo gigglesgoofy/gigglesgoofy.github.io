@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: You're up and running test!
 ---
 
