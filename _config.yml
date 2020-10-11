@@ -85,6 +85,4 @@ exclude:
   - README.md
   - CNAME
   
-remote_theme: chrisrhymes/bulma-clean-theme
-
-theme: jekyll-theme-midnight
+remote_theme: karloespirito/BlackDoc
